@@ -728,7 +728,7 @@ msgid "Number of set-aside hollows you own"
 msgstr ""
 
 msgid "Flip a [[Stable]] key you control to its [[Unstable]] side"
-msgstr ""
+msgstr "Retournez une clef [[Stable]] que vous contrôlez sur sa face [[Instable]]"
 
 msgid "Attack against a ready [[Outsider]] enemy"
 msgstr ""
@@ -737,28 +737,28 @@ msgid "There is a ready [[Outsider]] enemy at your location"
 msgstr ""
 
 msgid "Your location's column number"
-msgstr ""
+msgstr "Le numéro de colonne de votre lieu"
 
 msgid "The current day number"
-msgstr ""
+msgstr "Le nombre du jour actuel"
 
 msgid "<b>Parley</b> attempt"
-msgstr ""
+msgstr "Tentative de <b>Discussion</b>"
 
 msgid "Fewer than 3 cards in hand"
-msgstr ""
+msgstr "Moins de 3 cartes en main"
 
 msgid "Fewer than 2 cards in hand"
-msgstr ""
+msgstr "Moins de 2 cartes en main"
 
 msgid "Current floor number"
-msgstr ""
+msgstr "Le numéro de l'étage où vous vous trouvez"
 
 msgid "Half the number of [[Insect]] enemies in play and in the victory display (rounded up)"
-msgstr ""
+msgstr "La moitié du nombre d'ennemis [[Insecte]] en jeu et dans la pile de victoire (arrondi au supérieur)"
 
 msgid "At a [[Lair]] location"
-msgstr ""
+msgstr "Dans un lieu [[Tannière]]"
 
 msgid "Half the number of [[Insect]] enemies in play and in the victory display"
-msgstr ""
+msgstr "La moitié du nombre d'ennemis [[Insecte]] en jeu et dans la pile de victoire"
