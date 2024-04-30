@@ -11,7 +11,42 @@
     "name": "Gold Mining Revenues",
     "subname": "Money has no smell",
     "text": "Permanent.\nYou start each new scenario with 2 additional resources.\n<b>Forced</b> - Every new scenario, at the beginning of the first round: Test [willpower](3). If you fail, take 1 direct horror.",
+    "traits": "Condition."[
+  {
+    "code": "zatw_00001",
+    "name": "Face au Wendigo",
+    "text": "Facile / Standard\n[skull]: -1. En cas d'échec, perdez 1 ressource.\n[cultist]: -2. En cas d'échec, un soutien [[Allié]] que vous contrôlez subit 1 dégât et 1 horreur.\n[tablet]: -2. En cas de réussite, placez 1 indice depuis la réserve sur la Chaîne de Montagnes. En cas d'échec, subissez 1 horreur.\n[elder_thing]: -3. En cas d'échec, subissez 1 horreur.",
+    "back_text": "Difficile / Expert\n[skull]: -2. En cas d'échec, perdez 1 ressource.\n[cultist]: -2. En cas d'échec, retirez de la partie un soutien [[Allié]] que vous contrôlez.\n[tablet]: -3. En cas de réussite, placez 1 de vos indices sur la Chaîne de Montagnes. En cas d'échec, subissez 1 horreur.\n[elder_thing]: -4. En cas d'échec, subissez 1 dégât et 1 horreur."
+  },
+  {
+    "code": "zatw_00021",
+    "flavor": "Tout l'argent du monde ne peut effacer votre culpabilité, lorsque vous vous rappelez dans quel lieu sinistre se trouve le filon d'or, et le prix à payer pour en tirer profit.",
+    "name": "Revenus d'Exploitation Aurifère",
+    "subname": "L'Argent n'a pas d'Odeur",
+    "text": "Permanent.\nVous débutez chaque partie avec 2 ressources supplémentaires.\n<b>Forcé</b> - Au début de votre premier tour : effectuez un test de [willpower](3). En cas d'échec, subissez 1 horreur.",
     "traits": "Condition."
+  },
+  {
+    "code": "zatw_00032",
+    "flavor": "Les informations qui étaient dans le Temple d'Ithaqua tournent en boucle dans votre tête. Elles sont fort utiles pour comprendre les mystères qui vous entourent. Mais elles pèsent aussi fortement sur votre âme.",
+    "name": "Savoir d'Ithaqua",
+    "text": "Permanent.\n[fast]: Effectuez un test de [willpower](3). En cas de réussite, vous gagnez +3 [intellect] jusqu'à la fin de votre tour. En cas d'échec, subissez 1 horreur directe. (Limite de une fois par round)\n<b>Forcé</b> - Quand vous subissez un traumatisme mental : retirez définitivement cette carte de votre deck.",
+    "traits": "Occulte. Esprit."
+  },
+  {
+    "code": "zatw_00033",
+    "name": "Tomahawk",
+    "subname": "Arme Ancestrale des Foxtail",
+    "text": "Rapide.\n[action]: <b>Combattre.</b> Vous gagnez +1 [combat] et vous infligez +1 dégât pour cette attaque.\n[action] Défaussez le Tomahawk: <b>Combattre.</b> Cette attaque utilise [agility] au lieu de [combat] et inflige +2 dégâts.",
+    "traits": "Objet. Arme. Corps-à-corps. Relique."
+  },
+  {
+    "code": "zatw_00034",
+    "name": "Ancienne blessure",
+    "text": "<b>Révélation</b> - Mettez Ancienne blessure en jeu dans votre zone de menace.\n<b>Forcé</b> À la fin de votre tour : subissez 1 dégât direct.\n[action][action]: Défaussez l'Ancienne blessure.",
+    "traits": "Blessure."
+  }
+]
   },
   {
     "code": "zatw_00032",
