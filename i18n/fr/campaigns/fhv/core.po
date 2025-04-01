@@ -269,40 +269,40 @@ msgid "If an enemy with patrol would be compelled to move to a location via a pa
 msgstr "Si un ennemi ayant le mot-clé Patrouille est censé se déplacer dans un lieu qui est bloqué par une capacité de carte, cet ennemi ne se déplace pas."
 
 msgid "A side-story asset"
-msgstr ""
+msgstr "Un soutien d'histoire annexe."
 
 msgid "Which side-story asset would you like to give as a gift?"
-msgstr ""
+msgstr "Quel soutien d'histoire annexe voudriez-vous offrir en cadeau ?"
 
 msgid "Alien Instruments"
-msgstr ""
+msgstr "Instruments Extra-Terrestres"
 
 msgid "Ancient Ankh"
-msgstr ""
+msgstr "Ankh Antique"
 
 msgid "Bloodstained Dagger"
-msgstr ""
+msgstr "Dague Couverte de Sang"
 
 msgid "Cloak of the Outer Realm"
-msgstr ""
+msgstr "Cape du Royaume Extérieur"
 
 msgid "Dimensional Beam Machine"
-msgstr ""
+msgstr "Machine à Rayon Dimensionnel"
 
 msgid "Enchanted Skull"
-msgstr ""
+msgstr "Crâne Enchanté"
 
 msgid "Khopesh of the Abyss"
-msgstr ""
+msgstr "Khépesh de l'Abîme"
 
 msgid "Meteorite Sample"
-msgstr ""
+msgstr "Fragment de Météorite"
 
 msgid "Shellblade Tribute"
-msgstr ""
+msgstr "Lame d'Ark'at (Tribut de la Lame Carapace"
 
 msgid "Universal Solvent"
-msgstr ""
+msgstr "Solvant Universel"
 
 msgid "You will have to manually remove the card from your deck."
-msgstr ""
+msgstr "Vous devrez retirer la carte manuellement de votre deck."
