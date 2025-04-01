@@ -297,4 +297,4 @@ msgstr ""
 "Une lourde brise chargée d’essences de pin et de cèdre agite les arbres et les brins d’herbe autour de vous. Le Dr Marquez saisit sa canne. « Si vous préférez prendre le camion et continuer l’enquête, je peux chercher Bertie toute seule. »"
 
 msgid "Codex Π: Friendly Strangers"
-msgstr ""
+msgstr "Codex Π : Des Étrangers Amicaux"
